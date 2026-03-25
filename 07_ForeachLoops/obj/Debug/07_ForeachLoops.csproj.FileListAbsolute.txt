@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe.config
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\bin\Debug\07_ForeachLoops.pdb
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.exe
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.pdb
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\07_ForeachLoops\obj\Debug\07_ForeachLoops.exe.config
