@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\lenovo\Desktop\Murat Yücedağ c#\CSharpEgitimKampi\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb
